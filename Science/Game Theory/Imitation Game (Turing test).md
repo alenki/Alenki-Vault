@@ -1,0 +1,27 @@
+#Science 
+
+
+### Imitation game[[edit](https://en.wikipedia.org/w/index.php?title=Turing_test&action=edit&section=9 "Edit section: Imitation game")]
+
+Turing's original article describes a simple party game involving three players. Player A is a man, player B is a woman and player C (who plays the role of the interrogator) is of either gender. In the imitation game, player C is unable to see either player A or player B, and can communicate with them only through written notes. By asking questions of player A and player B, player C tries to determine which of the two is the man and which is the woman. Player A's role is to trick the interrogator into making the wrong decision, while player B attempts to assist the interrogator in making the right one.[[7]](https://en.wikipedia.org/wiki/Turing_test#cite_note-FOOTNOTESaygin2000-7)
+
+Turing then asks:
+
+> "What will happen when a machine takes the part of A in this game? Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman?" These questions replace our original, "Can machines think?"[[25]](https://en.wikipedia.org/wiki/Turing_test#cite_note-FOOTNOTETuring1950434-25)
+
+The second version appeared later in Turing's 1950 paper. Similar to the original imitation game test, the role of player A is performed by a computer. However, the role of player B is performed by a man rather than a woman.
+
+> Let us fix our attention on one particular digital computer _C._ Is it true that by modifying this computer to have an adequate storage, suitably increasing its speed of action, and providing it with an appropriate programme, _C_ can be made to play satisfactorily the part of A in the imitation game, the part of B being taken by a man?[[25]](https://en.wikipedia.org/wiki/Turing_test#cite_note-FOOTNOTETuring1950434-25)
+
+In this version, both player A (the computer) and player B are trying to trick the interrogator into making an incorrect decision.
+
+
+
+
+
+
+The **Turing test**, originally called the **imitation game** by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing "Alan Turing") in 1950,[[2]](https://en.wikipedia.org/wiki/Turing_test#cite_note-Turing-1950-2) is a test of a machine's ability to [exhibit intelligent behaviour](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") equivalent to, or indistinguishable from, that of a human. Turing proposed that a human evaluator would judge natural language conversations between a human and a machine designed to generate human-like responses. The evaluator would be aware that one of the two partners in conversation was a machine, and all participants would be separated from one another. The conversation would be limited to a text-only channel, such as a computer keyboard and screen, so the result would not depend on the machine's ability to render words as speech.[[3]](https://en.wikipedia.org/wiki/Turing_test#cite_note-3) If the evaluator could not reliably tell the machine from the human, the machine would be said to have passed the test. The test results would not depend on the machine's ability to give correct [answers to questions](https://en.wikipedia.org/wiki/Question_answering "Question answering"), only on how closely its answers resembled those a human would give.
+
+The test was introduced by Turing in his 1950 paper "[Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence "Computing Machinery and Intelligence")" while working at the [University of Manchester](https://en.wikipedia.org/wiki/University_of_Manchester "University of Manchester").[[4]](https://en.wikipedia.org/wiki/Turing_test#cite_note-4) It opens with the words: "I propose to consider the question, 'Can machines think?'" Because "thinking" is difficult to define, Turing chooses to "replace the question by another, which is closely related to it and is expressed in relatively unambiguous words."[[5]](https://en.wikipedia.org/wiki/Turing_test#cite_note-FOOTNOTETuring1950433-5) Turing describes the new form of the problem in terms of a three-person game called the "imitation game", in which an interrogator asks questions of a man and a woman in another room in order to determine the correct sex of the two players. Turing's new question is: "Are there imaginable digital computers which would do well in the _imitation game_?"[[2]](https://en.wikipedia.org/wiki/Turing_test#cite_note-Turing-1950-2) This question, Turing believed, was one that could actually be answered. In the remainder of the paper, he argued against all the major objections to the proposition that "machines can think".[[6]](https://en.wikipedia.org/wiki/Turing_test#cite_note-Turing's_nine_objections-6)
+
+Since Turing introduced his test, it has been both highly influential and widely criticised, and has become an important concept in the [philosophy of artificial intelligence](https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence "Philosophy of artificial intelligence").[[7]](https://en.wikipedia.org/wiki/Turing_test#cite_note-FOOTNOTESaygin2000-7)[[8]](https://en.wikipedia.org/wiki/Turing_test#cite_note-FOOTNOTERussellNorvig20032%E2%80%933,_948-8)[[9]](https://en.wikipedia.org/wiki/Turing_test#cite_note-9) Some of its criticisms, such as [John Searle](https://en.wikipedia.org/wiki/John_Searle "John Searle")'s [Chinese room](https://en.wikipedia.org/wiki/Chinese_room "Chinese room"), are themselves controversial.

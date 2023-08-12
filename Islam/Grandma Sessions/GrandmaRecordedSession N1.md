@@ -1,0 +1,5 @@
+#Islam 
+
+Biggest thing she regrets is not taking enough care of herself, living for others. Sometimes you gotta have some ego, you can't be living your life for the sake of others or else you will regret it in the future.
+She says that she really had good time with her mother and she did do a lot of good things for her, but sometimes her mother would tell her to do more, not for the sake of her, but for the sake of her daughter. She would say that you would regret it in the future, I don't want you to be more kind to me, I just don't want you to live the life of regret after I die. And she DID regret not treating her better and not spending more time with her! People have to look at you and the way you treat your parents and be very amazed at how respectful and amazing you are.
+Also she said that dark energy is gravity, I mean its holding the structure of the world, making it gravitate to the centre, keep its for, keep it from expanding. Interesting idea to say the least.

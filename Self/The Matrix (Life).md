@@ -1,0 +1,3 @@
+#Self 
+
+In my conclusion of thought, the owners of the internet have made the internet with bad intentions, because if you look closely, the internet is made to make people only want money in life, to change the life goals of people to money, with the power of jealosy. You can easily see people flexing there stuff, you yourself wanted money especially after watching videos, and the people don't realize that.

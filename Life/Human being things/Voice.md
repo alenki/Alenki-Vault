@@ -1,0 +1,4 @@
+#Life
+
+To have the best voice you could, you have to use your natural best voice. To use it, the voice has to come out from the area between the mouth and the nose. You basically have to feel that area vibrate. To practice, make an mhm sound and feel it vibrate. Then say "one" the same way you said mhm. Then "mhm two mhm three" and repeat that until you feel comfortable doing it automatically. This is how you find your voice's natural pitch and tone! Include in routing or habits I want to do.
+You also have to breath properly. When taking a deep breath, if your chest and shoulders rise up, then you've done it wrong. To do it right, your belly has to go in and out while breathing.

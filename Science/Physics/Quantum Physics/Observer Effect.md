@@ -1,0 +1,3 @@
+#Science 
+
+Your consciousness could collapse the universe just by being aware of it. The universe does not "allow" an observer to see the fabrics of reality, because if we understood how the universe functioned fundamentally, then we would have the ability to manipulate reality which would give us the power to destroy the universe. However, going back to "allow", the universe is not allowing or stopping any action, it is simply impossible for the consciousness to be aware of those concepts. This, I think, is explainable somehow, like how it is impossible for the consciousness to be aware of those concepts, I think that can be physically explained, because everything is, even the most extraordinary things.

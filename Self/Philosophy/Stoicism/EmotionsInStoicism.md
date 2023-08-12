@@ -1,0 +1,3 @@
+#Self 
+
+Controlling your emotions is a very important step to always thinking rationally and clearly. Controlling your emotions does not mean suppressing them. In Stoicism it means redirecting them. If you are angry don't go yelling at the guy that did you harm, think about how that's helpful and try to find whats more helpful. You cannot suppress that anger, even if you try to hide it, it will stay there, deep down in you, you have to redirect it. Fear. If you are scared of doing something, do it not despite of fear, but with the help of it. I am scared of doing this so I will do it to make myself better and stronger. And while doing it, while you are anxious, think about how cool it is that you are doing it while being scared of it.

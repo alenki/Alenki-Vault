@@ -1,0 +1,2 @@
+#Science 
+Interrogation, arrest: "Anything you say can, and will be used against you" which is true, and nothing you say can actually be used to help you. So it's best to stay silent and wait for legal representation.
